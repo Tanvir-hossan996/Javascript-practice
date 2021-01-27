@@ -7,27 +7,27 @@
 
 
 
-.full{
-    
-    width:300px;
-    height:200px;
+.full {
+
+    width: 300px;
+    height: 200px;
     margin: auto;
     margin-top: 250px;
 
-    
+
 }
 
 
-#one{
-    
-    width:200px;
-    height:25px;
+#one {
+
+    width: 200px;
+    height: 25px;
     border: 1px solid black;
     line-height: 25px;
-    margin-bottom:8px;
+    margin-bottom: 8px;
     padding-left: 15px;
     font-size: 20px;
-    
+
 }
 
 
@@ -35,18 +35,18 @@
 
     width: 40px;
     height: 40px;
-    border-radius:50%;
+    border-radius: 50%;
     border: none;
     font-size: 20px;
     transition: all linear .3s;
     margin-right: 10px;
-
+    outline: none;
 
 }
 
-.btn:hover{
-    
+.btn:hover {
+
     background: #1b7975;
     color: white;
-    
+
 }
